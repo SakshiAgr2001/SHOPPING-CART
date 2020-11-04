@@ -1,4 +1,4 @@
-# Node.js-Register-Login-App
+# Shooping Cart
 
 This is a user login and registration app using Node.js, Express, Mongoose and express-sessions.
 
