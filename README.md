@@ -1,5 +1,5 @@
 # Shooping Cart
-
+The users can add the desired items to the cart.
 This is a user login and registration app using Node.js, Express, Mongoose and express-sessions.
 
 ## Getting Started
@@ -17,7 +17,9 @@ npm install
 
 ### To Run
 ```
-nodemon server.js
+Once the file is downloaded open it on Visual Studio
+First step : npm install
+Second Step : node server.js
 ```
 
 Code is Running on 
